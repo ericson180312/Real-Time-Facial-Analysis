@@ -24,7 +24,7 @@ This project demonstrates how to visualize Grad-CAM heatmaps for convolutional n
  Visualize Grad-CAM:
 - Specify the target convolutional layer in the last_conv_layer_name variable.
 - Provide the folder containing the test images in base_folder.
-- Adjust grid size using the grid_size parameter.Run the script:
+- Adjust grid size using the grid_size parameter.
 
 ## Output
 Grad-CAM heatmaps overlayed on input images will be displayed in a grid.
